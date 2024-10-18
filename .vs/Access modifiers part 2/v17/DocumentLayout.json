@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nuran\\source\\repos\\Access modifiers part 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69012EA5-C871-4EF8-ACEA-38EAA6AC97E2}|Access modifiers part 2\\Access modifiers part 2.csproj|c:\\users\\nuran\\source\\repos\\access modifiers part 2\\access modifiers part 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69012EA5-C871-4EF8-ACEA-38EAA6AC97E2}|Access modifiers part 2\\Access modifiers part 2.csproj|solutionrelative:access modifiers part 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69012EA5-C871-4EF8-ACEA-38EAA6AC97E2}|Access modifiers part 2\\Access modifiers part 2.csproj|c:\\users\\nuran\\source\\repos\\access modifiers part 2\\access modifiers part 2\\models\\booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69012EA5-C871-4EF8-ACEA-38EAA6AC97E2}|Access modifiers part 2\\Access modifiers part 2.csproj|solutionrelative:access modifiers part 2\\models\\booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69012EA5-C871-4EF8-ACEA-38EAA6AC97E2}|Access modifiers part 2\\Access modifiers part 2.csproj|c:\\users\\nuran\\source\\repos\\access modifiers part 2\\access modifiers part 2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69012EA5-C871-4EF8-ACEA-38EAA6AC97E2}|Access modifiers part 2\\Access modifiers part 2.csproj|solutionrelative:access modifiers part 2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\Access modifiers part 2\\Access modifiers part 2\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Access modifiers part 2\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\Access modifiers part 2\\Access modifiers part 2\\Models\\Book.cs",
+              "RelativeToolTip": "Access modifiers part 2\\Models\\Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:52:33.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\Access modifiers part 2\\Access modifiers part 2\\Models\\BookLibrary.cs",
+              "RelativeDocumentMoniker": "Access modifiers part 2\\Models\\BookLibrary.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\Access modifiers part 2\\Access modifiers part 2\\Models\\BookLibrary.cs",
+              "RelativeToolTip": "Access modifiers part 2\\Models\\BookLibrary.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAiwIsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:31:07.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\Access modifiers part 2\\Access modifiers part 2\\Program.cs",
+              "RelativeDocumentMoniker": "Access modifiers part 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\Access modifiers part 2\\Access modifiers part 2\\Program.cs",
+              "RelativeToolTip": "Access modifiers part 2\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:28:13.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
